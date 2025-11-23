@@ -4,11 +4,11 @@ This repository provides a harmonized, long-format dataset of population counts 
 Data are extracted, cleaned, and standardized from publicly available statistics provided by e-Stat (the Portal Site of Official Statistics of Japan).
 
 Key Features
-✔ 55-year time series (1970–2024)
-✔ Consistent age-group categorization
-✔ Prefecture-level resolution (47 prefectures)
-✔ Total population available for 1970–2024
-✔ Japanese-only population available for 2015–2024 (limited availability before 2015)
+✔ 55-year time series (1970–2024)   
+✔ Consistent age-group categorization   
+✔ Prefecture-level resolution (47 prefectures)   
+✔ Total population available for 1970–2024   
+✔ Japanese-only population available for 2015–2024 (limited availability before 2015)   
 
 Data Sources
 Population statistics were obtained from the following e-Stat datasets:
